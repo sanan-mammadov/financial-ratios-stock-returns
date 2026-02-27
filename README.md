@@ -18,6 +18,6 @@ This project investigates whether fundamental financial ratios can be used to fo
 ## View the Full Report
 For an in-depth breakdown of the correlation matrices, descriptive statistics, and model summaries, please view the [Full PDF Report](DSBE510_Final_Project_Report_SM.pdf) included in this repository.
 
-*(Tip: You can drag and drop your Correlation Heatmap image right here into the GitHub editor and it will automatically display it!)*<img width="672" height="468" alt="Figure 1_Correlation Heatmap" src="https://github.com/user-attachments/assets/187ac2a3-7135-40df-871d-6b7b296232dc" />
-![Uploading Figure 1_Correlation Heatmap.png…]()
+<img width="672" height="468" alt="Figure 1_Correlation Heatmap" src="https://github.com/user-attachments/assets/187ac2a3-7135-40df-871d-6b7b296232dc" />
+
 <img width="1021" height="467" alt="Table 5_Robust Regression Coefficients" src="https://github.com/user-attachments/assets/15866338-3c1b-49d6-b1f8-d1d5dba8ef25" />
