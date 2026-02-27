@@ -16,7 +16,7 @@ This project investigates whether fundamental financial ratios can be used to fo
 * **Conclusion:** The models indicate that while fundamental ratios are crucial for long-term valuation, they explain a very small percentage of *short-term* stock volatility (~1.8%), which is more heavily driven by macroeconomic news and immediate market sentiment.
 
 ## View the Full Report
-For an in-depth breakdown of the correlation matrices, descriptive statistics, and model summaries, please view the [Full PDF Report](DSBE510_Final_Project_Report_SM.pdf) included in this repository.
+For an in-depth breakdown of the correlation matrices, descriptive statistics, and model summaries, please view the [Full PDF Report](Final Project Report.pdf) included in this repository.
 
 <img width="672" height="468" alt="Figure 1_Correlation Heatmap" src="https://github.com/user-attachments/assets/187ac2a3-7135-40df-871d-6b7b296232dc" />
 
